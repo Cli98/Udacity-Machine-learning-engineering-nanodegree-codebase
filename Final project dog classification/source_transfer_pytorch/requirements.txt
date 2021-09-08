@@ -3,4 +3,4 @@ numpy
 nltk
 beautifulsoup4
 html5lib
-Pillow==8.2.0
+Pillow==8.3.2
